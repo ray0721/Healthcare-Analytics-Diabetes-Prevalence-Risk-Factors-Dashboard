@@ -41,7 +41,7 @@ This Tableau dashboard analyzes diabetes prevalence and associated demographic a
 
 ## Tableau Public Dashboard
 
-([Add Tableau Public Link Here](https://public.tableau.com/app/profile/md.rayhan.hossain3089/viz/DiabeticRiskFactorsAnalysis/ClinicalRiskFactorsAnalysis))
+(https://public.tableau.com/app/profile/md.rayhan.hossain3089/viz/DiabeticRiskFactorsAnalysis/ClinicalRiskFactorsAnalysis))
 
 ## Author
 

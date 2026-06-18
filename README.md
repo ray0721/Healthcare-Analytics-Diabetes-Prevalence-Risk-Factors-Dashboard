@@ -29,7 +29,9 @@ This Tableau dashboard analyzes diabetes prevalence and associated demographic a
 - Hypertension vs Diabetes
 - Heart Disease vs Diabetes
 - Smoking History vs Diabetes
+### 🩺 Dashboard 3: Clinical Risk Factors Analysis
 
+![Dashboard 3](Diabetese%20analysis%20Dash%203.png)
 ## Key Insights
 
 - Adults aged 60+ account for the largest proportion of diabetes cases.

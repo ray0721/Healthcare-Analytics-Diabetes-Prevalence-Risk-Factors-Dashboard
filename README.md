@@ -12,8 +12,9 @@ This Tableau dashboard analyzes diabetes prevalence and associated demographic a
 - Diabetes Prevalence Rate
 - Average Glucose Level
 - Diabetes Distribution
-### 📊 Dashboard 1: Diabetes Preview
-![Dashboard Preview](Diabetes-analysis-Dash-1.png)
+### 📊 Dashboard 1: Diabetes Overview
+
+![Dashboard 1](Diabetes%20analysis%20Dash%201.png)
 
 ### Dashboard 2: Diabetes Demographics & Age Analysis
 - Diabetes Cases by Age Group

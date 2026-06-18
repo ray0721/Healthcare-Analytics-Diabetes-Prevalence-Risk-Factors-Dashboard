@@ -19,6 +19,9 @@ This Tableau dashboard analyzes diabetes prevalence and associated demographic a
 ### Dashboard 2: Diabetes Demographics & Age Analysis
 - Diabetes Cases by Age Group
 - Age Group Share (%)
+### 👥 Dashboard 2: Diabetes Demographics & Age Analysis
+
+![Dashboard 2](Diabetes%20analysis%20Dash%202.png)
 
 ### Dashboard 3: Clinical Risk Factors Analysis
 - HbA1c Analysis
